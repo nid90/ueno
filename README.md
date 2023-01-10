@@ -7,7 +7,7 @@ yamanote ~ aestheticss
 ### Play Store
 
 To generate a release build you need two files that are not, for good reasons, part of this repository: 
-
+asd
 - `ueno-upload-keystore.jks` in the `android/app` directory 
 - `key.properties` in the `android` directory 
 
