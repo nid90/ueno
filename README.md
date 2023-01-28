@@ -1,8 +1,8 @@
 # ueno
 
-yamanote lines ~ oral aesthetic
+yamanote lines ~ aural aesthetic
 
-## Creating release build
+## Creating a release build
 
 ### Play Store
 
