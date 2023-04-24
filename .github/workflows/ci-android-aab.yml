@@ -52,7 +52,7 @@ jobs:
         path: build/app/outputs/bundle/release/app-release.aab
 
     - name: Upload app to wolfia
-      uses: wolfia-app/wolfia-deploy@v0.0.4
+      uses: wolfia-app/wolfia-deploy@v0.0.12
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         wolfia-api-key-id: ${{ vars.WOLFIA_API_KEY_ID }}
