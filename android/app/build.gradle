@@ -54,8 +54,8 @@ android {
         applicationId "com.tramline.ueno"
         minSdkVersion 21
         targetSdkVersion flutter.targetSdkVersion
-        versionCode flutterVersionCode.toInteger()
-        versionName flutterVersionName
+        versionCode 441278062
+        versionName "12.0.0"
     }
 
     signingConfigs {
